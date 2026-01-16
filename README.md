@@ -26,7 +26,7 @@ Validation: Performed a final check to ensure zero missing values remained, guar
 | Data Completeness | ~98% | 100% |
 | Dataset Integrity | Gaps Found | Clean & Validated |
 
-Comparison:
+Comparison
 After the cleaning process, the dataset size remained the same (rows and columns preserved), but the data quality improved from incomplete to 100% usable by filling 303 null values using median and mode imputation
 
 KEY LEARNINGS
